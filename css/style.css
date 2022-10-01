@@ -75,6 +75,7 @@
         height: 120px;
     }
     .contact{
+         font-size:10px;
 
         animation: pulse  2s linear infinite;
     }
